@@ -1,0 +1,34 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "myocwcourse"
+  },
+  "course_title": "Computer Programming",
+  "hide_download": false,
+  "course_description": "Blah blah blah",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "myocwcourse"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "dd7764f8-0437-4f98-9f1e-b4d57f9d2eac",
+  "site_short_id": "my123"
+}
